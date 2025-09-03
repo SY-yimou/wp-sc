@@ -2,7 +2,7 @@
 
 > 一个优雅的静态网盘界面生成工具，专为GitHub Pages优化设计
 
-![网盘生成器演示](https://via.placeholder.com/800x400.png?text=网盘生成器演示)
+
 
 ## ✨ 功能特性
 
